@@ -1,7 +1,7 @@
 export function About() {
   return (
     <section className="container mx-auto px-4 py-16 text-center">
-      <h1 className="font-cinzel text-6xl md:text-8xl font-bold mb-6 text-primary dragon-title">Draconius Rex</h1>
+      <h1 className="font-cinzel text-6xl md:text-8xl font-bold mb-6 text-primary dragon-title">Ven</h1>
       <h2 className="text-2xl md:text-3xl font-semibold mb-8 text-secondary">Master of Fire and Art</h2>
       <div className="max-w-4xl mx-auto text-lg leading-relaxed text-muted-foreground">
         <p className="mb-6">
