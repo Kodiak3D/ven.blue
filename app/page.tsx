@@ -11,7 +11,7 @@ const art2D = [
     description: "A majestic **dragon portrait** with intricate details and [magical elements](https://example.com).",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/2d/nightsmile.png?height=400&width=600",
     title: "Fire Breathing",
     description: "Dynamic scene of a dragon breathing fire across the landscape.",
   },
