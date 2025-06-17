@@ -74,9 +74,9 @@ const art2D = [
 
 const art3D = [
   {
-    src: "/placeholder.svg?height=400&width=400",
+    src: "/3d/solaris.jpg?height=400&width=400",
     title: "3D Dragon Model",
-    description: "High-poly **3D dragon model** with detailed texturing and rigging.",
+    description: "Game ready **3D dragon model** with detailed texturing and rigging.",
   },
   {
     src: "/placeholder.svg?height=400&width=600",
