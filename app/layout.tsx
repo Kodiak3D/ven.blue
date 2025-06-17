@@ -8,9 +8,8 @@ import "@/styles/globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-  title: "Draconius Rex Portfolio",
-  description: "Dragon art portfolio showcasing 2D and 3D artwork",
-    generator: 'v0.dev'
+  title: "Ven",
+  description: "Dragon art portfolio showcasing 2D and 3D artwork"
 }
 
 export default function RootLayout({
