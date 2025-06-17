@@ -16,12 +16,12 @@ const art2D = [
     description: "Not really a scare but a pleasant encounter",
   },
   {
-    src: "/placeholder.svg?height=500&width=400",
-    title: "Ancient Wyrm",
-    description: "An *ancient wyrm* guarding its treasure hoard.",
+    src: "/2d/hl2v1.png?height=500&width=400",
+    title: "Wake up and smell the ashes",
+    description: "The right dragon in the wrong place can make all the difference in the world.",
   },
   {
-    src: "/placeholder.svg?height=400&width=400",
+    src: "/2d/autumn-adventure.png?height=400&width=400",
     title: "Dragon Flight",
     description: "Soaring through storm clouds with lightning crackling around.",
   },
@@ -31,14 +31,14 @@ const art2D = [
     description: "A dragon resting in a **crystal cave** filled with gems.",
   },
   {
-    src: "/placeholder.svg?height=400&width=500",
+    src: "/2d/thunderousrage.png?height=400&width=500",
     title: "Battle Scene",
-    description: "Epic battle between dragon and knight in medieval setting.",
+    description: "Building up thunder with all purple might.",
   },
   {
-    src: "/placeholder.svg?height=400&width=400",
-    title: "Peaceful Moment",
-    description: "A gentle dragon watching over a village at sunset.",
+    src: "/2d/webbersythtrade.png?height=400&width=400",
+    title: "Webber Blepping",
+    description: "Art trade with Webber.",
   },
   {
     src: "/placeholder.svg?height=500&width=400",
