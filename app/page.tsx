@@ -6,14 +6,14 @@ import { Footer } from "@/components/footer"
 // Sample images - replace with actual dragon artwork
 const art2D = [
   {
-    src: "/2d/ve1.svg?height=400&width=400",
-    title: "Dragon Portrait",
-    description: "A majestic **dragon portrait** with intricate details and [magical elements](https://example.com).",
+    src: "/2d/v1grumps.png?height=400&width=400",
+    title: "Feral Form",
+    description: "A majestic **dragon portrait** with intricate details.",
   },
   {
     src: "/2d/nightsmile.png?height=400&width=600",
-    title: "Fire Breathing",
-    description: "Dynamic scene of a dragon breathing fire across the landscape.",
+    title: "Night Scare",
+    description: "Not really a scare but a pleasant encounter",
   },
   {
     src: "/placeholder.svg?height=500&width=400",
