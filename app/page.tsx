@@ -7,12 +7,12 @@ import { Footer } from "@/components/footer"
 const art2D = [
   {
     src: "/2d/anewdawn.png?height=400&width=400",
-    title: "Feral Form",
+    title: "Our First kiss<3",
     description: "A majestic **dragon portrait** with intricate details.",
   },
     {
     src: "/2d/giftforblue.png?height=400&width=400",
-    title: "Feral Form",
+    title: "A drawing for my lover<3",
     description: "A majestic **dragon portrait** with intricate details.",
   },
   {

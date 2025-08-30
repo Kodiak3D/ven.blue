@@ -8,7 +8,7 @@ export function About() {
           Welcome. This is my personal art portfolio — a dragon’s hoard of creativity, where every work is a reflection of craft and vision.
         </p>
         <p className="mb-6">
-        Since I was a whelp, I’ve drawn — first on paper, then with digital fire. With every line, my claws have grown steadier, carving out a hoard of art that continues to evolve.
+        Since I was a whelp, I’ve drawn — first on paper, then with digital tools. With every line, my claws have grown steadier, carving out a hoard of art that continues to evolve.
         </p>
         <p>
           You are welcome to explore my hoard — each piece a treasure waiting to be discovered.
