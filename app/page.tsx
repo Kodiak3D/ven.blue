@@ -36,11 +36,6 @@ const art2D = [
     description: "Soaring through storm clouds with lightning crackling around.",
   },
   {
-    src: "/placeholder.svg?height=600&width=400",
-    title: "Crystal Cave",
-    description: "A dragon resting in a **crystal cave** filled with gems.",
-  },
-  {
     src: "/2d/thunderousrage.png?height=400&width=500",
     title: "Battle Scene",
     description: "Building up thunder with all purple might.",
