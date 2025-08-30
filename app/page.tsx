@@ -6,6 +6,16 @@ import { Footer } from "@/components/footer"
 // Sample images - replace with actual dragon artwork
 const art2D = [
   {
+    src: "/2d/anewdawn.png?height=400&width=400",
+    title: "Feral Form",
+    description: "A majestic **dragon portrait** with intricate details.",
+  },
+    {
+    src: "/2d/giftforblue.png?height=400&width=400",
+    title: "Feral Form",
+    description: "A majestic **dragon portrait** with intricate details.",
+  },
+  {
     src: "/2d/v1grumps.png?height=400&width=400",
     title: "Feral Form",
     description: "A majestic **dragon portrait** with intricate details.",
@@ -59,7 +69,7 @@ const art3D = [
     description: "Fully rendered 3D scene with dragon in natural environment.",
   },
   {
-    src: "/3d/comsniper.jpg?height=500&width=400",
+    src: "/3d/suitbat.jpg?height=500&width=400",
     title: "Combine sniper model",
     description: "Key frame from dragon flight animation sequence.",
   },
