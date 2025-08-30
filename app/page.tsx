@@ -40,6 +40,11 @@ const art2D = [
     title: "Webber Blepping",
     description: "Art trade with Webber.",
   },
+    {
+    src: "/2d/venmilo.png?height=400&width=400",
+    title: "First ever drawing of this floof",
+    description: "Looking all boopable.",
+  },
 ]
 
 const art3D = [
@@ -49,14 +54,19 @@ const art3D = [
     description: "Game ready **3D dragon model** with detailed texturing and rigging.",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/3d/comsniper.jpg?height=400&width=600",
     title: "Rendered Scene",
     description: "Fully rendered 3D scene with dragon in natural environment.",
   },
   {
-    src: "/placeholder.svg?height=500&width=400",
-    title: "Animation Frame",
+    src: "/3d/comsniper.jpg?height=500&width=400",
+    title: "Combine sniper model",
     description: "Key frame from dragon flight animation sequence.",
+  },
+    {
+    src: "/3d/monitordb.jpg?height=500&width=400",
+    title: "Monitor model for S&box",
+    description: "A model I made for s&box. Can be found on https://sbox.game/randkassets/r_k_monitor.",
   },
 ]
 
